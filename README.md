@@ -1,2 +1,2 @@
 # NimGame
-Classic Nim Game
+Game Theory Nim Game
