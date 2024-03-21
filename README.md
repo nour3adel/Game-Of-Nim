@@ -1,2 +1,2 @@
-# Game-Of-Nim
-Game-Of-Nim - game theory
+# NimGame
+Classic Nim Game
